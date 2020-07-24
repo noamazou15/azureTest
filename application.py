@@ -13,4 +13,4 @@ def hello():
   "TimeGenerate": "14:21",
   "severity": "moti is on fire"
 }'''
-    return "Hello"
+    return data
